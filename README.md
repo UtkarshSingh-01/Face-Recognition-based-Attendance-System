@@ -30,7 +30,18 @@ A Python-based project that automates student attendance using face recognition.
 3. **Recognize**: System identifies students via webcam.
 4. **Mark**: Attendance is logged automatically.
 
-![libraries](https://github.com/user-attachments/assets/07500c11-d4e0-48d4-bc84-f16cd0cab25d)
+## Libraries required
+- pip install tkinter
+- pip install pandas
+- pip install numpy
+- pip install pillow
+- pip install cv2
+- pip install python-csv
+- pip install tk-tools
+- pip install opencv-contrib-python
+- pip install datetime
+- pip install pytest-shutil
+- pip install python-json
 
 ## 👥 User Roles & Permissions
 
