@@ -1,0 +1,53 @@
+{
+    "classes": [
+        {
+            "class_name": "Marketing",
+            "time_slot": "10:00",
+            "students": [
+                ""
+            ]
+        },
+        {
+            "class_name": "ADA",
+            "time_slot": "11:00",
+            "students": [
+                ""
+            ]
+        },
+        {
+            "class_name": "Cyber",
+            "time_slot": "12:00",
+            "students": [
+                ""
+            ]
+        },
+        {
+            "class_name": "TOC",
+            "time_slot": "2:00",
+            "students": [
+                ""
+            ]
+        },
+        {
+            "class_name": "MP-MC",
+            "time_slot": "3:00",
+            "students": [
+                ""
+            ]
+        },
+        {
+            "class_name": "Trainer",
+            "time_slot": "4:00",
+            "students": [
+                ""
+            ]
+        },
+        {
+            "class_name": "Logical",
+            "time_slot": "9:00",
+            "students": [
+                ""
+            ]
+        }
+    ]
+}
